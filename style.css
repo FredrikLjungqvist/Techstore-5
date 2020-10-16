@@ -2,17 +2,20 @@
     box-sizing: border-box;
 }
 
-.blackBGWhiteText
-{
+.blackBGWhiteText{
     color:#FFFFFF;
     background-color: #212121;
 }
 
 .Iconsetting{
-    width:4em;
-    height:4em; 
+    width:2em;
+    height:2em; 
+    color:#ffffff;
     fill:currentColor;
-    fill-rule:evenodd;}
+    fill-rule:evenodd;
+}
+
 #ItemNumber{
-    font-size:2em;
+    color:#FFFFFF;
+    font-size: large;
 }
